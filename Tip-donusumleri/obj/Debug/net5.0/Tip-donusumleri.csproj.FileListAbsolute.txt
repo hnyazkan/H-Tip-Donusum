@@ -1,0 +1,16 @@
+C:\Users\Monster\Desktop\Pratikler\Tip-donusumleri\bin\Debug\net5.0\Tip-donusumleri.exe
+C:\Users\Monster\Desktop\Pratikler\Tip-donusumleri\bin\Debug\net5.0\Tip-donusumleri.deps.json
+C:\Users\Monster\Desktop\Pratikler\Tip-donusumleri\bin\Debug\net5.0\Tip-donusumleri.runtimeconfig.json
+C:\Users\Monster\Desktop\Pratikler\Tip-donusumleri\bin\Debug\net5.0\Tip-donusumleri.runtimeconfig.dev.json
+C:\Users\Monster\Desktop\Pratikler\Tip-donusumleri\bin\Debug\net5.0\Tip-donusumleri.dll
+C:\Users\Monster\Desktop\Pratikler\Tip-donusumleri\bin\Debug\net5.0\ref\Tip-donusumleri.dll
+C:\Users\Monster\Desktop\Pratikler\Tip-donusumleri\bin\Debug\net5.0\Tip-donusumleri.pdb
+C:\Users\Monster\Desktop\Pratikler\Tip-donusumleri\obj\Debug\net5.0\Tip-donusumleri.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\Pratikler\Tip-donusumleri\obj\Debug\net5.0\Tip-donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\Pratikler\Tip-donusumleri\obj\Debug\net5.0\Tip-donusumleri.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\Pratikler\Tip-donusumleri\obj\Debug\net5.0\Tip-donusumleri.AssemblyInfo.cs
+C:\Users\Monster\Desktop\Pratikler\Tip-donusumleri\obj\Debug\net5.0\Tip-donusumleri.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\Pratikler\Tip-donusumleri\obj\Debug\net5.0\Tip-donusumleri.dll
+C:\Users\Monster\Desktop\Pratikler\Tip-donusumleri\obj\Debug\net5.0\ref\Tip-donusumleri.dll
+C:\Users\Monster\Desktop\Pratikler\Tip-donusumleri\obj\Debug\net5.0\Tip-donusumleri.pdb
+C:\Users\Monster\Desktop\Pratikler\Tip-donusumleri\obj\Debug\net5.0\Tip-donusumleri.genruntimeconfig.cache
